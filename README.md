@@ -1,15 +1,15 @@
-### Selam @everyone ben Marcus, discord platformunda botlarla ilgilenen sıradan biriyim açıkcası discord botcularını kafamda 2 gruba koymaktayım;
+# Selam @everyone ben Marcus, discord platformunda botlarla ilgilenen sıradan biriyim açıkcası discord botcularını kafamda 2 gruba koymaktayım;
 
-# 1. Grup : Aptal botcular yani zeki, başarılı botcular.
+### 1. Grup : Aptal botcular yani zeki, başarılı botcular.
 
-# 2. Grup : Salak botcular yani hiç bi sikim becerememiş JaylenOzi gibi muthiş botlar yapan aptal botcuların altyapılarını kullanıp aptal botculara ahkam kesen botcular ;D 
+### 2. Grup : Salak botcular yani hiç bi sikim becerememiş JaylenOzi gibi muthiş botlar yapan aptal botcuların altyapılarını kullanıp aptal botculara ahkam kesen botcular ;D 
 
-## Artık gerçekten sıkıldım salak botcuların aptal botcuların üşenip eksik yaptığı özelleştiremediği botları özelleştirip salak botcuların özelltirebileceği botlar paylaşacağım ;DDd
+## Artık gerçekten sıkıldım salak botcuların aptal botcuların üşenip eksik yaptığı özelleştiremediği botlardan artık salak botcuların özelltirebileceği botlar paylaşacağım ;DDd
 
-### Beni merak ediyorsanız;
+# Beni merak ediyorsanız;
 
 ```js
-class vegas{
+class ozturk{
   constructor(options) {
     this.name = "Emir",
     this.hometown = "Adana",
