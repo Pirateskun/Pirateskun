@@ -1,16 +1,26 @@
-### Hi there 👋
+### Selam @everyone ben Marcus, discord platformunda botlarla ilgilenen sıradan biriyim açıkcası discord botcularını kafamda 2 gruba koymaktayım;
 
-<!--
-**oztwrk/oztwrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 1. Grup : Aptal botcular yani zeki, başarılı botcular.
 
-Here are some ideas to get you started:
+# 2. Grup : Salak botcular yani hiç bi sikim becerememiş JaylenOzi gibi muthiş botlar yapan aptal botcuların altyapılarını kullanıp aptal botculara ahkam kesen botcular ;D 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Artık gerçekten sıkıldım salak botcuların aptal botcuların üşenip eksik yaptığı özelleştiremediği botları özelleştirip salak botcuların özelltirebileceği botlar paylaşacağım ;DDd
+
+### Beni merak ediyorsanız;
+
+```js
+class vegas{
+  constructor(options) {
+    this.name = "Emir",
+    this.hometown = "Adana",
+    this.birthday = "17",
+    this.birthmonth = "April",
+    this.birthyear = "2003",
+    this.age = "19",
+    this.height = "1.85",
+    this.weight = "70",
+    this.type = "human",
+    this.job = "programmer",
+    this.sex = "male"
+  }
+}```
