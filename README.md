@@ -9,7 +9,7 @@
 # Beni merak ediyorsanız;
 
 ```js
-class ozturk{
+class Pirateskun{
   constructor(options) {
     this.name = "Emir",
     this.hometown = "Adana",
