@@ -23,4 +23,4 @@ class ozturk{
     this.job = "programmer",
     this.sex = "male"
   }
-}```
+}
